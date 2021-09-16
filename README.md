@@ -7,4 +7,4 @@
   * the number of follow, follower and posted media<br>
   * whether an account is private<br>
   * profile content
-from any Instagram ID. As a result, data as CSV is made in the work directly.
+<br><br>from any Instagram ID. As a result, data as CSV is made in the work directly.
